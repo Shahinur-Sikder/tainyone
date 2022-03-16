@@ -1,0 +1,32 @@
+/*common style start*/
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    color: #010101;
+}
+/*common style end*
+/*header style start*/
+header{
+    background-color:  #fcdb00;
+    padding: 25px 0px;
+}
+.menu ul li a{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    color: #010101 !important;
+    padding: 0px 30px !important;
+    transition: .3s;
+}
+.menu ul li:last-child a{
+    padding-right: 0px !important;
+}
+.menu ul li a:hover{
+    color: #fff !important;
+}
+/*header style end*/
+/*slider style start*/
+.slider{
+    
+}
+/*slider style end*/
